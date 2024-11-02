@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://evotuefu.github.io/OoA/sitemap_index.txt
+Sitemap: https://evotuefu.github.io/RhK/sitemap_index.txt
+Sitemap: https://evotuefu.github.io/eqJ/sitemap_index.txt
+Sitemap: https://evotuefu.github.io/mgk/sitemap_index.txt
